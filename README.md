@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lakshmi Manaswi Karra
+- 👋 Hi, I’m Manaswi
 - 👀 I’m interested in building things, seeing them work and having them used by others! 
 - 📫 How to reach me : manaswi.karra@gmail.com
 
